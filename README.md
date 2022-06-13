@@ -45,7 +45,6 @@ A **FRONT-END WEB DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shurrd&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abraham's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shurrd&count_private=true&theme=radical" alt="Abraham" />
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shurrd&count_private=true&theme=radical" alt="Abraham" />
 
 ----
 Credit: [Abraham](https://github.com/Abraham)
