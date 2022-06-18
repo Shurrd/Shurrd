@@ -14,7 +14,7 @@
 <br />
 <br />
 
-A **FRONT-END WEB DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
+A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
