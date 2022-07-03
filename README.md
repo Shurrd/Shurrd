@@ -31,18 +31,18 @@ A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
 
 **Languages and Tools:**  
 
+<h2>JavaScript</h2>
+<h2>ReactJS</h2>
+<h2>NextJS</h2>
+<h2>TypeScript</h2>
+<h2>NodeJS</h2>
+<h2>HTML</h2>
+<h2>CSS</h2>
+<h2>SASS</h2>
+<h2>Tailwind CSS</h2>
+<h2>Bootstrap</h2>
+<h2>Material UI</h2>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Shurrd&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abraham's GitHub Stats">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shurrd&count_private=true&theme=radical" alt="Abraham" />
@@ -50,4 +50,3 @@ A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
 ----
 Credit: [Abraham](https://github.com/Abraham)
 
-Last Edited on: 04/01/2021
