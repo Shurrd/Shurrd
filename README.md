@@ -22,7 +22,7 @@ A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently an Electrical and Electronics Engineering graduate from Covenant University
-- 🌱 I’m currently exploring NextJS and Dart and also some interest in android app developement languages . 
+- 🌱 I’m currently exploring NextJS. 
 - 🤔 My interest lies in Block-Chain development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [engraaadeyemi@gmail.com](mailto:engraaadeyemi@gmail.com).
