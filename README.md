@@ -14,7 +14,7 @@
 <br />
 <br />
 
-A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
+A **FRONT-END DEVELOPER** 🚀.
  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
@@ -22,8 +22,8 @@ A **FRONT-END DEVELOPER** ***and an aspiring block-chain developer*** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently an Electrical and Electronics Engineering graduate from Covenant University
-- 🌱 I’m currently exploring NextJS. 
-- 🤔 My interest lies in Block-Chain development.
+- 🌱 I’m currently exploring Flutter. 
+- 🤔 My interest lies in anything Software.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [engraaadeyemi@gmail.com](mailto:engraaadeyemi@gmail.com).
 
