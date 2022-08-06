@@ -22,7 +22,7 @@ A **FRONT-END DEVELOPER** 🚀.
 **About Me!**
 
 - 👨🏽‍💻 I’m currently an Electrical and Electronics Engineering graduate from Covenant University
-- 🌱 I’m currently exploring Flutter. 
+- 🌱 I’m currently exploring NextJS. 
 - 🤔 My interest lies in anything Software.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [engraaadeyemi@gmail.com](mailto:engraaadeyemi@gmail.com).
