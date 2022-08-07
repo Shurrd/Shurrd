@@ -1,52 +1,41 @@
-<h3 title="Shurrd"> Hey 👋, I'm Abraham!</h3>
+<h1 align="center">Hi 👋, I'm Abraham</h1>
+<h3 align="center">A FRONT-END DEVELOPER 🚀.</h3>
 
-<a href="https://www.linkedin.com/in/adeoluwa-adeyemi-45743222b/">
-  <img align="left" alt="Abraham's LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shurrd&label=Profile%20views&color=0e75b6&style=flat" alt="shurrd" /> </p>
 
-<a href="https://twitter.com/shurrrrd">
-  <img align="left" alt="Abraham's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />
-</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shurrd" alt="shurrd" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/shurrrrd" target="blank"><img src="https://img.shields.io/twitter/follow/shurrrrd?logo=twitter&style=for-the-badge" alt="shurrrrd" /></a> </p>
 
+- 🔭 I’m currently working on **E-Commerce Project**
 
+- 🌱 I’m currently learning **Next JS**
 
-<br />
-<br />
+- 👯 I’m looking to collaborate on **any project**
 
-A **FRONT-END DEVELOPER** 🚀.
- 
+- 👨‍💻 All of my projects are available at [https://jesuisabraham.netlify.app/](https://jesuisabraham.netlify.app/)
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+- 💬 Ask me about **anything, i'd love to answer**
 
-**About Me!**
+- 📫 How to reach me **engraaadeyemi@gmail.com.**
 
-- 👨🏽‍💻 I’m currently an Electrical and Electronics Engineering graduate from Covenant University
-- 🌱 I’m currently exploring NextJS. 
-- 🤔 My interest lies in anything Software.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [engraaadeyemi@gmail.com](mailto:engraaadeyemi@gmail.com).
+- ⚡ Fun fact **I think I am funny**
 
-
-
-**Languages and Tools:**  
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shurrrrd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shurrrrd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adeoluwa-adeyemi-45743222b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adeoluwa-adeyemi-45743222b/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18630442" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18630442" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/shurd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/shurd" /></a></p><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shurrd&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Abraham's GitHub Stats">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shurrd&count_private=true&theme=radical" alt="Abraham" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shurrd&show_icons=true&locale=en&layout=compact" alt="shurrd" /></p>
 
-----
-Credit: [Abraham](https://github.com/Abraham)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shurrd&show_icons=true&locale=en" alt="shurrd" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shurrd&" alt="shurrd" /></p>
