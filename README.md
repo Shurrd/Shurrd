@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Commerce Project**
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **any project**
 
