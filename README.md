@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A FRONT-END DEVELOPER 🚀.</h3>
 
-- 🔭 I’m currently working on **E-Commerce Project**
+- 🔭 I’m currently working on an **E-Commerce Project**
 
 - 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **any project**
 
-- 👨‍💻 All of my projects are available at [https://jesuisabraham.netlify.app/](https://jesuisabraham.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://jesuisabraham.netlify.app/](https://jesuisabraham.netlify.app/)
 
 - 💬 Ask me about **anything, i'd love to answer**
 
 - 📫 How to reach me **engraaadeyemi@gmail.com.**
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
