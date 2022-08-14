@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">A FRONT-END DEVELOPER 🚀.</h3>
 
-- 🔭 I’m currently working on an **E-Commerce Project**
+- 🔭 I’m currently working on a **Personal Project**
 
 - 🌱 I’m currently learning **Flutter**
 
