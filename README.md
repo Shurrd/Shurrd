@@ -27,8 +27,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/shurd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shurd" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shurrd&show_icons=true&locale=en&layout=compact" alt="shurrd" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shurrd&show_icons=true&locale=en" alt="shurrd" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shurrd&" alt="shurrd" /></p>
