@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **any project**
-
 - 👨‍💻 Some of my projects are available at [https://jesuisabraham.netlify.app/](https://jesuisabraham.netlify.app/)
 
 - 📫 How to reach me **engraaadeyemi@gmail.com.**
