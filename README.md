@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abraham</h1>
 <h3 align="center">SOFTWARE ENGINEER 🚀.</h3>
 
-- 🔭 I’m currently working on some **Official Projects**
-
-- 🌱 I’m currently learning **Flutter**
-
 - 👨‍💻 Some of my projects are available at [https://jesuisabraham.netlify.app/](https://jesuisabraham.netlify.app/)
 
 - 📫 How to reach me **engraaadeyemi@gmail.com.**
